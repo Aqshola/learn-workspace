@@ -1,6 +1,6 @@
 [workspace]
 
-members = [
+members = [ "leetcode",
     'smartpointer'
 ]
 resolver = "2"
